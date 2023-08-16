@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+*{
+	background-color:rgb(204, 204, 204);
+}
+div{
+	text-align: center;
+}
+audio{
+	background-color: rgb(255, 255, 255);
+	padding:none;
+	border-redius:5px;
+}
+video{
+	background-color: rgb(255, 255, 255);
+	padding:none;
+	border-redius:5px;
+}
+a{
+	ext-decoration-line: none;
+}
+li{
+	list-style-type: none;
+}
+
